@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="right">
-
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbo-ram-jeong&count_bg=%23F12793&title_bg=%23171617&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/bo-ram-jeong)
+-->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbo-ram-jeong&count_bg=%23F12793&title_bg=%23171617&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
 
 </div>
 
