@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h4>
-:rainbow: Hello, Thank you for visiting my GitHub<br/>
+:rainbow: Hello, Welcome to my GitHub<br/>
 As a front-end developer, I want to challenge myself every day<br/>
 I hope to develop all the wonderful things<br/>
 Watch me grow in the future :stuck_out_tongue_winking_eye:
