@@ -28,15 +28,15 @@ I hope to develop all the wonderful things<br/>
 Watch me grow in the future :stuck_out_tongue_winking_eye:
 </h4>
 
-<br/>
-
+</div>
+  
 ### :clap: Nice way to know me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bo-ram-jeong.github.io/)](https://bo-ram-jeong.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/boram33377@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boram33377@gmail.com)](mailto:boram33377@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/brj34@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:brj34@naver.com)](mailto:brj34@naver.com)
-<br/>
 
-### :muscle: Skills
+
+### :books: Things I code with
 <h4>Platforms & Languages</h4>
 <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <a href=https://developer.android.com/studio?gclid=CjwKCAjw3K2XBhAzEiwAmmgrApuGSt607re8P5ghbZZFyMB4FnREisCQPJNChxWbvRAU0QCSrQz2GBoCtYUQAvD_BwE&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
@@ -58,9 +58,23 @@ Watch me grow in the future :stuck_out_tongue_winking_eye:
 <a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
 <a href="https://firebase.google.com/?hl=ko&gclid=CjwKCAjw3K2XBhAzEiwAmmgrAmKmQPnuGPgCoOKuVQyW-5iqhSE9MIsh96di7zZCR5qvgTdqAiCkdRoC9JQQAvD_BwE&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 
-<br/><br/>
+### :email: A little more about me..
+```javascript
+const boram = {
+  pronouns: "she" | "her",
+  whatIWantToLearn: {
+	  platform: "Node",
+		language: "TypeScript",
+		queryLanguage: "GraphQL"
+	},
+  interest: ["pilates", "swimming", "movie"],
+  resolution: "I will run with the goal of steady diligence",
+}
+```
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bo-ram-jeong&layout=compact&theme=omni&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 ![Boram Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bo-ram-jeong&show_icons=true&theme=omni)
 
-</div>
+
