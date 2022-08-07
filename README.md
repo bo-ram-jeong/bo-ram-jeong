@@ -61,12 +61,12 @@ Watch me grow in the future :stuck_out_tongue_winking_eye:
 ### :email: A little more about me..
 ```javascript
 const boram = {
-  pronouns: "she" | "her",
+  birth: "1999.05.11",
   whatIWantToLearn: {
-	  platform: "Node",
-		language: "TypeScript",
-		queryLanguage: "GraphQL"
-	},
+  	platform: "Node",
+	language: "TypeScript",
+	queryLanguage: "GraphQL"
+  },
   interest: ["pilates", "swimming", "movie"],
   resolution: "I will run with the goal of steady diligence",
 }
