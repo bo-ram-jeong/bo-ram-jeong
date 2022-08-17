@@ -62,13 +62,12 @@ Watch me grow in the future :stuck_out_tongue_winking_eye:
 ```javascript
 const boram = {
   birth: "1999.05.11",
-  whatIWantToLearn: {
-  	platform: "Node",
-	language: "TypeScript",
-	queryLanguage: "GraphQL"
+  interest: {
+  	activity: "Watching streaming services at home",
+	movie: "okja",
+	music: "snowman - sia"
   },
-  interest: ["pilates", "swimming", "movie"],
-  resolution: "I will run with the goal of steady diligence",
+  personality: ["careful", "diligent", "affectionate"],
 }
 ```
 
