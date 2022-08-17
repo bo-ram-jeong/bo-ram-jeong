@@ -44,7 +44,6 @@ Watch me grow in the future :stuck_out_tongue_winking_eye:
 <a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <br/>
 <a href="https://www.java.com/ko/"><img src="https://user-images.githubusercontent.com/84834172/182914035-4bd5d509-cf68-40ba-a641-5c1bf76fc5d9.svg"/></a>
-<a href="https://developer.android.com/?hl=ko"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> 
 <a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
