@@ -50,21 +50,20 @@ Watch me grow in the future :stuck_out_tongue_winking_eye:
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="https://opentutorials.org/module/3921/23496"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <br/>
-<a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_apac_south_korea_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624365&adgroup=115749706703&gclid=CjwKCAjw3K2XBhAzEiwAmmgrAtWQZKRF5B7l4qNtIdD0Hd94NBMP8vPD5UmoNRTHtt9g_uAMSMX8-BoCh68QAvD_BwE"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <br/>
-<a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
 <a href="https://firebase.google.com/?hl=ko&gclid=CjwKCAjw3K2XBhAzEiwAmmgrAmKmQPnuGPgCoOKuVQyW-5iqhSE9MIsh96di7zZCR5qvgTdqAiCkdRoC9JQQAvD_BwE&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
+<a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
 
 ### :email: A little more about me..
 ```javascript
 const boram = {
   birth: "1999.05.11",
   interest: {
-  	activity: "Watching streaming services at home",
-	movie: "okja",
-	music: "snowman - sia"
+  	activity: "atching streaming services at home",
+	movie: "suspense film",
+	music: "pop music"
   },
   personality: ["careful", "diligent", "affectionate"],
 }
