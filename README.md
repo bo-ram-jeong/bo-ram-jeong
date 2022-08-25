@@ -61,7 +61,7 @@ Watch me grow in the future :stuck_out_tongue_winking_eye:
 const boram = {
   birth: "1999.05.11",
   interest: {
-  	activity: "atching streaming services at home",
+  	activity: "watching streaming services at home",
 	movie: "suspense film",
 	music: "pop music"
   },
