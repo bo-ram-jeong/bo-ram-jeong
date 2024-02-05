@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 :rainbow: Welcome to my GitHub!<br/>
 As a front-end developer, I want to challenge myself every day<br/>
 I hope to develop all the wonderful things<br/>
-Watch me grow in the future :stuck_out_tongue_winking_eye:
+Watch me grow in the future~!
 </h4>
 
 </div>
