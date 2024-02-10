@@ -39,7 +39,7 @@ Watch me grow in the futureee
 ### :books: Things I code with
 <h4>Platforms & Languages</h4>
 <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
-<a href=https://developer.android.com/studio?gclid=CjwKCAjw3K2XBhAzEiwAmmgrApuGSt607re8P5ghbZZFyMB4FnREisCQPJNChxWbvRAU0QCSrQz2GBoCtYUQAvD_BwE&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+<a href="https://www.android.com/intl/ko_kr/"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 
@@ -70,8 +70,8 @@ Watch me grow in the futureee
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 
 <br/>
-<a href="https://vuejs.org/"><img src ="https://img.shields.io/badge/Recoil-3578E5.svg?&style=flat-square&logo=Recoil&logoColor=white"/></a>
-<a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>
+<a href="https://recoiljs.org/ko/"><img src ="https://img.shields.io/badge/Recoil-3578E5.svg?&style=flat-square&logo=Recoil&logoColor=white"/></a>
+<a href="https://tanstack.com/query/v3/"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>
 
 
 ### :email: A little more about me..
