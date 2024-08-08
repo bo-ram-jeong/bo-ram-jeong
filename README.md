@@ -61,8 +61,6 @@ Watch me grow in the futureee
 
 <a href="https://firebase.google.com/?hl=ko&gclid=CjwKCAjw3K2XBhAzEiwAmmgrAmKmQPnuGPgCoOKuVQyW-5iqhSE9MIsh96di7zZCR5qvgTdqAiCkdRoC9JQQAvD_BwE&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 <a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
-
-<br/>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 
