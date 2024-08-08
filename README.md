@@ -38,6 +38,20 @@ Watch me grow in the futureee
 
 ### :books: Things I code with
 <h4>Platforms & Languages</h4>
+
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
+<a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
+<br/>
+<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"></a>
+<a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<br/>
+<a href="https://recoiljs.org/ko/"><img src ="https://img.shields.io/badge/Recoil-3578E5.svg?&style=flat-square&logo=Recoil&logoColor=white"/></a>
+<a href="https://tanstack.com/query/v3/"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>
+
+<br/><br/>
 <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <a href="https://www.android.com/intl/ko_kr/"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
@@ -57,21 +71,6 @@ Watch me grow in the futureee
 <a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
-
-<br/>
-<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
-<a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
-<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
-
-<br/>
-<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"></a>
-<a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-
-<br/>
-<a href="https://recoiljs.org/ko/"><img src ="https://img.shields.io/badge/Recoil-3578E5.svg?&style=flat-square&logo=Recoil&logoColor=white"/></a>
-<a href="https://tanstack.com/query/v3/"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>
 
 
 ### :email: A little more about me..
